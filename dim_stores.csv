@@ -1,0 +1,25 @@
+store_id,store_name,country,region
+100,United Store 1,United States,North America
+101,United Store 2,United States,North America
+102,United Store 1,United Kingdom,Europe
+103,United Store 2,United Kingdom,Europe
+104,Germany Store 1,Germany,Europe
+105,Germany Store 2,Germany,Europe
+106,France Store 1,France,Europe
+107,France Store 2,France,Europe
+108,India Store 1,India,Asia
+109,India Store 2,India,Asia
+110,United Store 1,United Arab Emirates,Middle East
+111,United Store 2,United Arab Emirates,Middle East
+112,Canada Store 1,Canada,North America
+113,Canada Store 2,Canada,North America
+114,Australia Store 1,Australia,Oceania
+115,Australia Store 2,Australia,Oceania
+116,Japan Store 1,Japan,Asia
+117,Japan Store 2,Japan,Asia
+118,Singapore Store 1,Singapore,Asia
+119,Singapore Store 2,Singapore,Asia
+120,Brazil Store 1,Brazil,South America
+121,Brazil Store 2,Brazil,South America
+122,Netherlands Store 1,Netherlands,Europe
+123,Netherlands Store 2,Netherlands,Europe
