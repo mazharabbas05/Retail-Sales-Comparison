@@ -30,7 +30,8 @@ between 2024 and 2025 using Microsoft Power BI.
 ## Files Included
 - Power BI Dashboard (.pbix)
 - Dashboard Export (.pdf)
-- Dataset files (to be added)
-
+- dim_stores.csv
+- fact_sales_2024.csv
+- fact_sales_2025.csv
 ## Author
 Mazhar Abbas
